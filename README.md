@@ -23,6 +23,6 @@ and Grade-A hospital bussiness process
   institution and simple bussiness process
 * intuitive design and layout
 
-coming soon: 02-01-2021
+**coming soon: 02-01-2021**
 
-don't forget to bookmark this site and come again.
+Don't forget to bookmark this site and come again.
