@@ -16,13 +16,13 @@ and Grade-A hospital bussiness process
 * highly readable source code
 * simplified complex algorithm
 
-**Usage Features**
-* multilanguage: local or international language
-* multitheme
+**Non Technical Features**
+* multi language: local or international language
+* multi theme
 * designed for Grade-A hospital bussiness process but downgradeable for small
   institution and simple bussiness process
 * intuitive design and layout
 
 **coming soon: 02-01-2021**
 
-Don't forget to bookmark this site and come again.
+Don't forget to bookmark this site and please come again.
