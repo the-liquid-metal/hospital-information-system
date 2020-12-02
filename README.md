@@ -19,8 +19,8 @@ and Grade-A hospital bussiness process
 **Non Technical Features**
 * multi language: local or international language
 * multi theme
-* designed for Grade-A hospital bussiness process but downgradeable for small
-  institution and simple bussiness process
+* designed for Grade-A hospital bussiness process
+* downgradable for small institution and simple business process
 * intuitive design and layout
 
 **coming soon: 02-01-2021**
